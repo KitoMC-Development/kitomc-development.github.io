@@ -1,7 +1,8 @@
 ## Our Goal
 
 Make Good Plugins, Software, And Anti-Cheat For The KitoMC Network
-# Our Projects 
+## Our Projects
+
 ### Aureus Anti-Cheat
 
 ### Aureus Ban Alert
